@@ -1,0 +1,25 @@
+# Dev
+brew "git"
+cask "visual-studio-code"
+cask "android-studio"
+cask "iterm2"
+
+# Productivity
+cask "raycast"
+cask "mark-text"
+cask "notion"
+
+# Misc
+cask "google-chrome"
+cask "spotify"
+cask "skype"
+
+# Util
+brew "syncthing"
+cask "keepassxc"
+cask "android-file-transfer"
+cask "the-unarchiver"
+brew "mdcat"
+
+# oh-my-zsh
+brew "autojump"

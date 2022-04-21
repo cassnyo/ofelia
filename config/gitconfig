@@ -1,0 +1,15 @@
+[user]
+	name = Adrián Belmonte
+	email = cassnyo@gmail.com
+	username = cassnyo
+
+[color]
+	ui = true
+
+[core]
+	excludesfile = "~/Develop/ofelia/config/gitignore-global"
+	autocrlf = input
+
+[alias]
+    ignore-apply = !git rm -r --cached . && git add . && git status -s && echo "gitignore applied"
+    dog = log --decorate --oneline --graph

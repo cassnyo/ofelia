@@ -25,7 +25,7 @@
 ## Manual configuration
 
 ### System
-- Disable Spotlight hotkey: go to `System Preferences > Keyboard > Spotlight` and disable `Show Spotlight search`.
+- Disable Spotlight hotkey: go to `System Preferences > Keyboard > Shortcuts > Spotlight` and disable `Show Spotlight search`.
 
 ### Raycast
 - Enable Raycat hotkey. `Raycast Preferences > General`.
@@ -47,6 +47,6 @@
 - Visual Studio Code
 - iTerm
 - Spotify
-- Mark-Text
+- Obsidian
 - Notion
 - Bin

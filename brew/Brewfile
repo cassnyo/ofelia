@@ -6,7 +6,7 @@ cask "iterm2"
 
 # Productivity
 cask "raycast"
-cask "mark-text"
+cask "obsidian"
 cask "notion"
 
 # Misc

@@ -32,6 +32,11 @@
 - Set Rectangle hotkeys to Raycast window management. `Raycast Preferences > Extensions > Window management > Presets > Rectangle`
 - Set shortcut to *iTerm*: `Reycast Preferences > Extensions > Search iTerm > Record Hotkey ⌘+R`
 
+#### Quicklinks
+- Search Linguee: `https://www.linguee.es/search?query={Query}`. [Chrome]
+- Search Youtube: `https://www.youtube.com/results?search_query={Query}`. [Chrome]
+- Search Spotify: `https://open.spotify.com/search/{Query}`. [Spotify]
+
 ### Visual Studio Code
 - Enable *Online Server Settings*: go to `Code > Preferences > Online Server Settings` and follow the steps.
 

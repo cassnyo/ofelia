@@ -15,8 +15,6 @@ cask "spotify"
 cask "skype"
 
 # Util
-brew "syncthing"
-cask "keepassxc"
 cask "android-file-transfer"
 cask "the-unarchiver"
 brew "mdcat"

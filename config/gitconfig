@@ -13,3 +13,5 @@
 [alias]
     ignore-apply = !git rm -r --cached . && git add . && git status -s && echo "gitignore applied"
     dog = log --decorate --oneline --graph
+[init]
+	defaultBranch = main
